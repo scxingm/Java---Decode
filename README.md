@@ -1,1 +1,1 @@
-Java的第一个有界面的加密解密Demo# Decode
+# Java的第一个有界面的加密解密Demo
